@@ -1,14 +1,5 @@
-# Study Buddy Business Website
-A simple business website
-![Portfolio Demo](demo/demo.gif)
+# Tutoring Buisness Website
+
+A simple website to promote a tutoring buisness 
 
 
-
-## Running Locally
-
-Can run the application in VS Code or a terminal and it will be available at `http://localhost:3000`.
-
-```bash
-npm install
-npm run dev
-```
