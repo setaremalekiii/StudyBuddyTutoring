@@ -30,7 +30,7 @@ const AboutSection = () => {
               Hello and Welcome!
             </h1>
             <p>
-            We're a duo of Biomedical Engineering students from the 
+            We&apos;re a duo of Biomedical Engineering students from the 
             University of British Columbia, driven by a shared passion for
              empowering high school and middle school students in their STEM journey. 
              Our mission? To pave your path to academic excellence 
@@ -47,22 +47,22 @@ const AboutSection = () => {
             <p>
             <span className="font-bold">{" Tailored Tutoring: "}</span> 
              Dive into weekly sessions, available both online and in-person,
-             focusing on Math and Science. We're here to tackle those tricky
+             focusing on Math and Science. We&apos;re here to tackle those tricky
              topics and homework hurdles together.
             </p>
             <br />
 
             <p>
             <span className="font-bold">{" University Prep: "}</span> 
-             Dreaming of university? We've got your back. From choosing
+             Dreaming of university? We&apos;re got your back. From choosing
              the right institution to crafting standout applications 
-             and securing scholarships, we're your guiding light.
+             and securing scholarships,We&apos;re your guiding light.
             </p>
             <br />
 
             <p>
             <span className="font-bold">{" Beyond the Books: "}</span> 
-             It's not just about grades. We'll help you shine with extracurriculars, 
+             It&apos;s not just about grades. We&apos;ll help you shine with extracurriculars, 
             initiate impactful projects, and build a resume that resonates with success.
             </p>
             <br />
@@ -73,8 +73,7 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
               right foundation
               </span>{" "}
-              , 
-              anyone can excel in their studies, beyond the 
+              , anyone can excel in their studies, beyond the 
               boundaries of their background. Starting this journey 
               early not only sets the stage for academic success but also
                propels individuals towards a future brimming with achievement.🙂
