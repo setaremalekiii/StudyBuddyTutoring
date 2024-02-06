@@ -28,7 +28,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
             Biomedical Engineering student at UBC {" "}
             </span>
-            specializing in Computer Science, and I&apos;ve been on the Dean&apos;s honor&apos;s list since I started my degree! I have over 2 years of experience tutoring high school students, and I always try to teach in a way so that the students can thoroughly grasp the concepts, rather than memorizing the content. Having been in high school not too long ago myself, I know how important it is to have a good understanding of the foundational curriculum that is taught in grade school, and I&apos;m here to make learning as easy as possible!
+            specializing in Computer Science, and I&#39;ve been on the Dean&#39;s honor&#39;s list since I started my degree! I have over 2 years of experience tutoring high school students, and I always try to teach in a way so that the students can thoroughly grasp the concepts, rather than memorizing the content. Having been in high school not too long ago myself, I know how important it is to have a good understanding of the foundational curriculum that is taught in grade school, and I&#39;m here to make learning as easy as possible!
           </p>
         
         </div>
