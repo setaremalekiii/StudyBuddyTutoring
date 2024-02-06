@@ -35,7 +35,7 @@ const AboutSection = () => {
              empowering high school and middle school students in their STEM journey. 
              Our mission? To pave your path to academic excellence 
              through dedicated mentorship and tutoring. What sets us apart is our  
-             <span className="font-bold">{"ambition"}</span>,
+             <span className="font-bold">{" ambition"}</span>,
               <span className="font-bold">{" vision"}</span>, and
               <span className="font-bold">{" drive"}</span> to make a possitive impact 
               and build strong foundation of Math and sciences for students of all levels.
