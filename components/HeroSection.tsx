@@ -28,12 +28,11 @@ const HeroSection = () => {
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
             Biomedical Engineering student at University of British Columbia{" "}
-            </span>
-            . I was enrolled in the full International Baccalearate (IB) program in high school. 
+            </span>. I was enrolled in the full International Baccalaureate (IB) program in high school. 
             I also was very involved in extracurricular activities and was able to secure $50k in 
-            scholarships for my academics and involvements. I really enjoy learning and teaching math, 
-            physics and chemitry, and have experience tutoring high school level mathmatics. My goal is 
-            to pass on my current knoweldge, teach students how to understand fundamental concepts and ultimately 
+            scholarships for my academics and involvement. I enjoy learning and teaching math, 
+            physics and chemistry, and have experience tutoring high school-level mathematics. My goal is 
+            to pass on my current knowledge, teach students how to understand fundamental concepts and ultimately 
             boost their confidence in academia and their extracurricular activities.  
           </p>
         </div>
