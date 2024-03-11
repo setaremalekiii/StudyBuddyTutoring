@@ -31,14 +31,14 @@ const AboutSection = () => {
             </h1>
             <p>
             We&#39;re a duo of Biomedical Engineering students from the 
-            University of British Columbia, driven by a shared passion for
+            The University of British Columbia, driven by a shared passion for
              empowering high school and middle school students in their STEM journey. 
              Our mission? To pave your path to academic excellence 
              through dedicated mentorship and tutoring. What sets us apart is our  
              <span className="font-bold">{" ambition"}</span>,
               <span className="font-bold">{" vision"}</span>, and
-              <span className="font-bold">{" drive"}</span> to make a possitive impact 
-              and build strong foundation of Math and sciences for students of all levels.
+              <span className="font-bold">{" drive"}</span> to make a positive impact 
+              and build a strong foundation in Math and sciences for students of all levels.
             </p>
             <br />
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
