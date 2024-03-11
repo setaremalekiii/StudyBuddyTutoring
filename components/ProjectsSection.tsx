@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Book a Call With Us",
     description:
-      "Book a 30 minute consulation call with us and discuss your needs to see if our program is suitable for you!",
+      "Book a 30-minute consultation call with us and discuss your needs to see if our program is suitable for you!",
     image: "/cal.png",
     link: "https://calendly.com/studybuddy-tutors/30min",
   },
