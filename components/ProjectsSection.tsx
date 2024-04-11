@@ -16,7 +16,7 @@ const projects = [
     name: "Email Us",
     description: "Feel free to send us an email with any questions!",
     image: "/mail.png",
-    link: "mailto: studybuddy.tutoring@outlook.com",
+    link: "mailto: studybuddy.tutors@outlook.com",
   },
 
 ]
